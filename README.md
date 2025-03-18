@@ -37,7 +37,7 @@ Este proyecto es una aplicación web que permite a los usuarios ingresar nombres
 - **JavaScript**: Lógica del programa.
 
 ## 👨‍💻 Personas Desarrolladoras del Proyecto
-- [Tomás Villordo]
+- Tomás Villordo
 
 ## 📜 Licencia
 Este proyecto no posee licencia.
